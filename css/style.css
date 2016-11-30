@@ -940,15 +940,15 @@ a.selected-item:before, .side-menu a:hover:before {
 	text-transform: uppercase;
 }
 
-.c h1 {
-	color: #fff;
+.testimonials h1 {
+	color: #ccc;
 	font-size: 2rem;
 	margin: 10px auto;
 	letter-spacing: 1.5px;
 	text-transform: uppercase;
 }
 
-.testmonials .client h3 + span {
+.testmonials .client h3 + span h1{
 	font-size: 1.2rem;
 	letter-spacing: 1.5px;
 	text-transform: uppercase;
